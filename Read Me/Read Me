@@ -1,0 +1,68 @@
+<div align="center">
+  <a href="#diamond-sorter">
+    <img src="https://img.shields.io/badge/Diamond%20Sorter-4CAF50?style=for-the-badge" alt="Diamond Sorter"/>
+  </a>
+  <a href="#diamond-checker">
+    <img src="https://img.shields.io/badge/Diamond%20Checker-2196F3?style=for-the-badge" alt="Diamond Checker"/>
+  </a>
+  <a href="#diamond-hunter">
+    <img src="https://img.shields.io/badge/Diamond%20Hunter-FFC107?style=for-the-badge" alt="Diamond Hunter"/>
+  </a>
+  <a href="#diamond-browser">
+    <img src="https://img.shields.io/badge/Diamond%20Browser-9C27B0?style=for-the-badge" alt="Diamond Browser"/>
+  </a>
+  <a href="#diamond-dumper">
+    <img src="https://img.shields.io/badge/Diamond%20Dumper-F44336?style=for-the-badge" alt="Diamond Dumper"/>
+  </a>
+</div>
+> [!NOTE]- Built With
+>  [![License](https://img.shields.io/badge/license-MIT-blue.svg) ](LICENSE)  [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)  [![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green)](https://pypi.org/project/PyQt5/)
+
+> [!WARNING]+ Script's Reasoning / Purpose
+> This was developed for creating value and finding resources out of public logs and data.
+
+
+> [!INFO]- 5-in-1 Stealer Log Working Software
+> **Diamond Sorter** - For sorting and cleaning out text data from Malware logs & Stealer Logs
+> **Diamond Checker** - A OpenSourced Python developed Cookie Checker similar to BL Tools
+> **Diamond Hunter** - A Unique and  Original URL Analyzing tool and Cookie Evaluation
+> **Diamond Browser** - A OpenSourced Automated Browser for Recording Bruteforce Steps & Plays
+> **Diamond Dumper** - A Original Telegram Token Dumper, Session Manager, and Telegram Reporting Tool.
+
+
+> [!DANGER]- Preface
+>                           **Welcome!**
+>                        Yes, you read that right.
+>                  This preface is dedicated to you 
+>                             —
+>                 the unsung heroes of my journey.
+> 
+> While the world often celebrates the cheerleaders and supporters, I believe it's time to shine a spotlight on the **real MVPs: the critics, the haters, and the shit talking skid marks.**
+> 
+> 
+> Without your delightful shade and relentless skepticism, my life would be as bland as a tofu sandwich at a barbecue. You see, every time you doubted my abilities, I felt a spark of motivation.
+>
+> 
+> It’s like you were my personal cheerleading squad—if cheerleaders wore frowns and threw tomatoes instead of pom-poms.
+> 
+> Your comments have been the wind beneath my wings, propelling me to soar higher and proving that I can achieve greatness despite your best efforts to keep me grounded. 
+> 
+> Thank you for your unsolicited advice! 
+> Your critiques have been like GPS directions in a world where I was just trying to wing it.
+> 
+> “Turn left at ‘You’ll Never Make It,’” you said. And guess what? I did! And I’m still going strong on this winding road of life. So here’s to you, my beloved haters!
+> 
+> May your keyboards always be sticky with the remnants of your passionate rants, and may your evenings be filled with endless scrolling through my success stories.
+> 
+> You’ve inspired me in ways I never thought possible—mostly by showing me exactly what not to do.
+
+## 📋 Table of Contents
+- [🌟 Overview](#-overview)
+- [✨ Features](#-features)
+- [🚀 Installation](#-installation)
+- [🔧 Usage](#-usage)
+- [⚙️ Configuration](#️-configuration)
+- [🔗 Dependencies](#-dependencies)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+
